@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>returnHome</name>
+   <tag></tag>
+   <elementGuidId>f908d232-9ca1-40d3-ae89-f54bece26e70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='LogoContent']//img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='LogoContent']//img</value>
+      <webElementGuid>83e4ef52-936d-4105-978e-a06e95cfe342</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

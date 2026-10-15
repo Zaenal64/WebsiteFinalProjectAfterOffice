@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>productDesc_txt</name>
+   <tag></tag>
+   <elementGuidId>58000b0b-c865-4a2a-986e-6728d2bcb113</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='Catalog']//table//tr[2]/td[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='Catalog']//table//tr[2]/td[1]</value>
+      <webElementGuid>2e6b0d30-4126-4985-b0f7-c8eaea36ff48</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

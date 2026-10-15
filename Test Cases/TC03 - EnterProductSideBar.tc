@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - EnterProductSideBar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81742ea0-24a7-4c62-88d7-5d046ae9b0e8</testCaseGuid>
+</TestCaseEntity>
